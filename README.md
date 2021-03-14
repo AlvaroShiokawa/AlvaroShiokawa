@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/alvaroshiokawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alvaroshiokawa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4170509" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4170509" height="30" width="40" /></a>
 <a href="https://medium.com/@alvaroshiokawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alvaroshiokawa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/user/alvshiokawa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/user/alvshiokawa/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alvshiokawa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/user/alvshiokawa/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alvaroshiokawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="alvaroshiokawa" height="30" width="40" /></a>
 </p>
 
