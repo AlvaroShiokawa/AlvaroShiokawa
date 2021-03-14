@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm ÁLVARO SHIOKAWA ALVAREZ</h1>
 <h3 align="center">An hardworking, enthusiastic full-stack developer from Brazil, currently looking for remote work opportunities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaroshiokawa&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroshiokawa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvaroshiokawa&theme=nord" alt="alvaroshiokawa" /></a> </p>
-
 - 🔭 I’m currently working on [FomentoNet](https://www.fomentonet.pr.gov.br/fomentonet/)
 
 - 🌱 I’m currently learning **Spring, SOLID principles, clean code, Java, Javascript, HTML, CSS, etc.**
@@ -12,6 +8,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AlvaroShiokawa](https://github.com/AlvaroShiokawa)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alvaroshiokawa/](https://www.linkedin.com/in/alvaroshiokawa/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaroshiokawa&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroshiokawa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvaroshiokawa&theme=nord" alt="alvaroshiokawa" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
