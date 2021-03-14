@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/alvaroshiokawa/](https://www.linkedin.com/in/alvaroshiokawa/)
 
 <!-- Social Media -->
-<h3 align="left">Connect with me on the following social media:</h3>
+<h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/@alvaroshiokawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@alvaroshiokawa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alvaroshiokawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alvaroshiokawa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4170509" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4170509" height="30" width="40" /></a>
