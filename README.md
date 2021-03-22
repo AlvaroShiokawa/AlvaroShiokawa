@@ -1,5 +1,5 @@
 <!-- Title and subtitle -->
-<h1 align="center">Sup 👋! I'm ÁLVARO SHIOKAWA ALVAREZ! Nice to meet you 😎👍🏻 !</h1>
+<h1 align="center">Sup 👋! I'm ÁLVARO SHIOKAWA ALVAREZ! Pleased to meet you 😎👍🏻 !</h1>
 <h3 align="center">A hardworking, enthusiastic full-stack developer from Brazil, currently looking for remote work opportunities.</h3>
 
 <!-- Basic info -->
