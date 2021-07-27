@@ -5,7 +5,7 @@
 <!-- Basic info -->
 - 🔭 I’m currently working on [FomentoNet](https://www.fomentonet.pr.gov.br/fomentonet/)
 
-- 🌱 I’m currently learning **Spring, SOLID principles, Clean Code, Java, Javascript, HTML, CSS, etc.**
+- 🌱 I’m currently learning **Spring REST, Java, Javascript, HTML, CSS, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlvaroShiokawa](https://github.com/AlvaroShiokawa)
 
