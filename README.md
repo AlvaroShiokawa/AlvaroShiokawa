@@ -1,6 +1,6 @@
 <!-- Title and subtitle -->
 <h1 align="center">Sup 👋! I'm ÁLVARO SHIOKAWA ALVAREZ! Nice to meet you 😎👍🏻 !</h1>
-<h3 align="center">A hardworking, enthusiastic back-end developer from Brazil, currently looking for remote work opportunities.</h3>
+<h3 align="center">A hardworking, enthusiastic back-end developer from Brazil, working remotly.</h3>
 
 <!-- Basic info -->
 - 🔭 I’m currently working at GFT Group
