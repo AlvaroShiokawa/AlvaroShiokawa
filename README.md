@@ -3,7 +3,7 @@
 <h3 align="center">A hardworking, enthusiastic back-end developer from Brazil, currently looking for remote work opportunities.</h3>
 
 <!-- Basic info -->
-- 🔭 I’m currently working on ???
+- 🔭 I’m currently working at GFT Group
 
 - 🌱 I’m currently learning **Spring REST, Java, Javascript, HTML, CSS, etc.**
 
