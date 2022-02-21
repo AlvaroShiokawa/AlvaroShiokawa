@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alvaroshiokawa/](https://www.linkedin.com/in/alvaroshiokawa/)
 
+- 🥇 Badges: [https://www.credly.com/users/alvaroshiokawa/badges](https://www.credly.com/users/alvaroshiokawa/badges)
+
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/alvaroshiokawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alvaroshiokawa" height="30" width="40"/></a>
